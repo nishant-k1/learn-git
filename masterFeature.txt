@@ -1,2 +1,5 @@
 this is main feature of my app
-new feature on main branch 
+new feature on main branch
+
+I added feature_1 to the master feature, so this featue_1 branch has all the feature of the master branch and on top of it, it has some new features
+as well(feature_1)
