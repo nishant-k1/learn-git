@@ -1,1 +1,2 @@
-this is master feature of my app
+this is main feature of my app
+new feature on main branch 
