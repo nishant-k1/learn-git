@@ -4,6 +4,12 @@ new feature on main branch
 I added feature_1 to the master feature, so this featue_1 branch has all the feature of the master branch and on top of it, it has some new features
 as well(feature_1)
 
+<<<<<<< HEAD
 some change on main branch
 
 again some change on main branch
+=======
+some change on feature_1 branch
+
+agani some change on feature_1 brach
+>>>>>>> feature_1
